@@ -1,1 +1,3 @@
-# Learning Pointers, arrays and strings in C
+# Alagwudavid
+## 0x06-pointers_arrays_strings Class
+## ALX - SE Programme
